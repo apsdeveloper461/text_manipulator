@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text_manipulater/static/css/main.7386260d.css",
+    "main.js": "/text_manipulater/static/js/main.3f695c9a.js",
+    "index.html": "/text_manipulater/index.html",
+    "main.7386260d.css.map": "/text_manipulater/static/css/main.7386260d.css.map",
+    "main.3f695c9a.js.map": "/text_manipulater/static/js/main.3f695c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7386260d.css",
+    "static/js/main.3f695c9a.js"
+  ]
+}
